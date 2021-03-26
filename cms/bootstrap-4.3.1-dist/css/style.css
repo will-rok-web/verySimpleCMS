@@ -1,0 +1,23 @@
+.form {
+	border: 1px;
+	border-radius: 3px;
+	border-color: blue;
+	background: #fff;	
+	width: 300px;
+	margin-left: 20px;
+}
+.left {
+	margin-left:20px;
+	margin-right:20px;
+}
+.dropdown-menu {
+	background-color: rgba(0,0,0,0.8);
+}
+.dropdown-item {
+	color: #fff;
+}
+.dropdown-item:hover, .dropdown-item:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: rgba(59,87,245,0.8);
+}
